@@ -1,0 +1,38 @@
+$(`${'<form name="jump">\x0D\x0A<div class="MyColors">\x0D\x0A					<map id="ColorsMap" name="ColorsMap">\x0D\x0A					<area alt="" coords="270, 0, 295, 25" href="javascript:chooseStyle(\'none\',60)" shape="rect" title="1">\x0D\x0A					<area alt="" coords="239, 0, 265, 25" href="javascript:chooseStyle(\'Co2\',60)" shape="rect" title="2">\x0D\x0A					<area alt="" coords="209, 0, 235, 25" href="javascript:chooseStyle(\'Co3\',60)" shape="rect" title="3">\x0D\x0A					<area alt="" coords="178, 0, 203, 25" href="javascript:chooseStyle(\'Co4\',60)" shape="rect" title="4">\x0D\x0A					<area alt="" coords="148, 0, 173, 25" href="javascript:chooseStyle(\'Co5\',60)" shape="rect" title="5">\x0D\x0A					</map>\x0D\x0A			        <img alt="" height="40" src="https://1.top4top.net/p_1388gqx1c1.gif" width="300" usemap="#ColorsMap"></div>\x0D\x0A</form>\x0D\x0A\x0D\x0A\x0D\x0A   \x0D\x0A\x0D\x0A'}`)['insertBefore']('.nav-tabs');
+$['getScript']('https://rawcdn.githack.com/omar-alhaded/msj/9e885a80229c17222cc6d6fcc4e592483b09a437/AL-HADED1.JS');
+$('<div class=\'fr borderg\' style=\'padding:2px;background-color:white;float:left;margin-left:4px;\'> ط§ط³طھط§ظٹظ„ط§طھ :<a href=\'http://www.chatnsh.com/\'>ط¹ظ…ط± ط§ظ„ط­ط¯ظٹط¯</a></div>')['insertAfter']($('.loginstat'));
+$('.u-pic')['css']('border-radius', '3px');
+$('button.btn.btn-primary')['css']('border-radius', '15px');
+$('.hand.nosel.fl.uzr.border')['css']({
+    'margin': '1px 0'
+    , paddingTop: '2px'
+    , borderRadius: '5px'
+});
+$('.uzr.fl.corner.borderg')['css']({
+    'margin': '0px 0'
+    , paddingTop: '2px'
+    , borderRadius: '5px'
+});
+$('.checkbox label')['html'](`${'<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">'}`);
+$('.nav-tabs')['addClass']('fl')['css']('width', '100%');
+$(`${'<link rel="stylesheet" type="text/css" href="">\x0D\x0A\x0D\x0A\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/msj/7ee8667e0a8cd73c29ba561a1d1e13a69f6096bd/AL-HADED1.CSS" rel="stylesheet" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/msj/7ee8667e0a8cd73c29ba561a1d1e13a69f6096bd/AL-HADED2.CSS" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/msj/7ee8667e0a8cd73c29ba561a1d1e13a69f6096bd/AL-HADED3.CSS" media="screen" rel="alternate stylesheet" title="Co3" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/msj/7ee8667e0a8cd73c29ba561a1d1e13a69f6096bd/AL-HADED4.CSS" media="screen" rel="alternate stylesheet" title="Co4" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/msj/7ee8667e0a8cd73c29ba561a1d1e13a69f6096bd/AL-HADED5.CSS" media="screen" rel="alternate stylesheet" title="Co5" type="text/css" />\x0D\x0A\x0D\x0A<style>\x0D\x0A\x0D\x0A.MyColors {\x0D\x0A    position: absolute;\x0D\x0A    transform: matrix(1, 0, 0, 1, 80, -2);\x0D\x0A    margin-top: 2px;\x0D\x0A    width: 300px;\x0D\x0A    height: 60px;\x0D\x0A    float: right;\x0D\x0A    background: transparent url(https://chatnsh.com/sico/z1emv61d1h10.png) no-repeat scroll right top;\x0D\x0A    text-align: left;\x0D\x0A}\x0D\x0A\x0D\x0Adiv#users img.fl.ustat {\x0D\x0A    border-radius: 10px 0px 0px 0px;\x0D\x0A    margin: 0;\x0D\x0A	margin-right: -36px;\x0D\x0A	width: 39px!important;\x0D\x0A\x0D\x0A}\x0D\x0A\x0D\x0Aimg.fitimg.fl.u-pic {\x0D\x0A    border-radius: 13px 0px 0px 0px!important;\x0D\x0A    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 5px #707071\x0D\x0A}\x0D\x0A\x0D\x0A\x0D\x0A#AL-HADED0 {\x0D\x0A    background-color: #3c3c3c;\x0D\x0A	border-radius: 15px 15px 0px 0!important;\x0D\x0A}\x0D\x0A\x0D\x0Aa.fa.fa-user-plus {\x0D\x0A    color: #ff3363;\x0D\x0A}\x0D\x0A\x0D\x0A\x0D\x0Alabel.fl.nosel.label.pnhead {\x0D\x0Abackground-image: -webkit-linear-gradient(45deg,hsla(0,0%,100%,.2) 25%,transparent 0,transparent 50%,hsla(0,0%,100%,.2) 0,hsla(0,0%,100%,.2) 75%,transparent 0,transparent)!important;\x0D\x0A\x0D\x0A}\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A#AL-HADED3 {\x0D\x0A    margin: 1px!important;\x0D\x0A}\x0D\x0A\x0D\x0Aul.nav.nav-tabs.fl {\x0D\x0A    margin-top: 1px!important;\x0D\x0A}\x0D\x0A\x0D\x0A\x0D\x0A</style>\x0D\x0A'}`)['insertBefore']('body')
+setprofile_=setprofile;
+reqlikes=5;
+setprofile=function(){if(getuser(myid).rep<reqlikes){alert('ظ„ط§ ظٹظ…ظƒظ†ظƒ ط­ظپط¸ ط§ظ„ط£ط¹ط¯ط§ط¯ط§طھ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ '+reqlikes+''); return;}else{setprofile_();}}
+sendpic_=sendpic;
+reqlikes=5;
+sendpic=function(){if(getuser(myid).rep<reqlikes){alert(' ظ„ط¥ ظٹظ…ظƒظ†ظƒ طھط؛ظٹط± طµظˆط±طھظƒ ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰ ظ„ط§ظٹظƒط§طھ  '+reqlikes+''); return;}else{sendpic_();}}
+Tsend_=Tsend;
+reqlikes=5;
+Tsend=function(){if(getuser(myid).rep<reqlikes){alert(' ظ„ط¥ ظٹظ…ظƒظ†ظƒ ط§ظ„ظƒطھط§ط¨ط© ط¹ط§ظ… ظٹطھط·ظ„ط¨ ظ…ظ†ظƒ ط§ظ„ط­طµظˆظ„ ط¹ظ„ظ‰      ظ„ط§ظٹظƒط§طھ'+reqlikes+' ');  return;}else{Tsend_();}}
+$(".fa-gear").text("ط§ظ„ط¶ط¨ط·").css("width","");
+function pmsg(){var m=prompt('ظˆط¬ظ‡ ط§ظ„ط¯ط¨ط³ ط§ظ„ط¥ط¹ظ„ط§ظ† ط¨ط³ ظ„ظ„ظ…ط³ط§ط¨ظ‚ط§طھ ظ„طھظ…ط²ط­ظˆظ† ظˆطھظ„ط¹ط¨ظˆظ† ط¨ط§ظ„ط§ط¹ظ„ط§ظ†',"");if(m==''||m==null){return;}
+m=m.split('\n').join('');if(m=="%0A"||m=="%0a"||m==''||m=='\n'){return;}
+send("pmsg",{msg:m});}
+$("div#tlogins input").attr("maxlength",10),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
+
+$(".ubnr").remove(); 
+$(".fr.co").hide();
+$(".fl.mini.u-co").hide();
+$(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
+bct=100;msgt=100;
