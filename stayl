@@ -1,0 +1,28 @@
+if(location.protocol!='https:'){location.protocol='https:';}
+$(`<img src="sico/z1emv9lhk810.jpg" class="fr" style="width:100%;margin-top: 0px;">
+
+
+
+<a id="AL-HADED3" href="https://chatnsh.com/" style="border-radius: 24px 0px 24px 0px;width:23%;margin:2px;" class="fl mini  fa  fa-
+ btn btn-primary"> ♻ تحديث</a>
+<a id="AL-HADED3" href="https://chatnsh.com/" style="border-radius: 0px 24px 0px 24px;width:23%;margin:2px;" class="fl mini  fa   fa-star
+ btn btn-default"> تميز- مَعنآ </a>
+<a id="AL-HADED3" href="https://chatnsh.com/" style="border-radius: 24px 0px 24px 0px;width:26%;margin:2px;" class="fl mini  fa fa-image
+btn btn-primary"> القوانين </a>
+<a id="AL-HADED3" href="https://chatnsh.com/" style="border-radius: 0px 24px 0px 24px;width:24%;margin:2px;" class="fl mini  fa fa-paint-brush
+btn btn-default"> الإداره </a>
+`).insertBefore('.nav-tabs');
+
+
+$.getScript("https://rawcdn.githack.com/omar-alhaded/msj/745e1935f3ab1d907366513b83e41de6fabab5ce/AL-HADED.JS");
+
+
+
+$("[data-target=#wall]").attr('title',' مســآحه حره لأبداعاتكم ')
+
+
+$(` <center><div width="99%" id="asim7"><font style="background-color: #dbf6f1;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > مبدع الحائط    ( قريباً )_❥   </font></div><center>`).insertBefore('div#d2bc');
+
+
+
+$(`<div><marquee direction="right" width="100%" id="AL-HADED0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4">  اهلا وسهلا بكم في شات <font color="#357524" class="AL-HADED2"> نشــآمـا للجوال </font>افضل سوبر لهذا الاسبوع<font class="AL-HADED2" color="#800000"> قريبا </font>افضل زائر لهذا الاسبوع<font class="AL-HADED2" color="#ff9900"> قريبا </font>افضل زائرة لهذا الاسبوع<font class="AL-HADED2" color="#ff00ff"> قريبا 	 </font>مبدع الحائط لهذا الاسبوع<font class="AL-HADED2" color="#5CAD9A"> قريبا </font>مبدعه الحائط لهذا الاسبوع<font class="AL-HADED2" color="#800000"> َقريبا </font>مع تمنياتنا للجميع باطيب الاوقات </marquee></div>`).insertBefore('span.s1.fa.fa-user.label.badgex');
